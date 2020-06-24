@@ -1,0 +1,4 @@
+21:02:57.907 [main] INFO  com.github.ahenteti.sftpserver.Main - Starting Main v0.1 on DESKTOP-PUORKBH with PID 17796 (C:\dev\projects\java-demo\sftp-demo\sftp-server\target\sftp-server-0.1.jar started by ahenteti in C:\dev\projects\java-demo\sftp-demo\sftp-server)
+21:02:57.912 [main] INFO  com.github.ahenteti.sftpserver.Main - No active profile set, falling back to default profiles: default
+21:02:59.112 [main] INFO  com.github.ahenteti.sftpserver.Main - Started Main in 2.253 seconds (JVM running for 3.502)
+21:02:59.686 [main] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
